@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Emerge",
+  "version": "0.1.0",
+  "description": "Una extensión para romper tu burbuja de filtros y redescubrir la web.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage",
+    "history"
+  ],
+  "host_permissions": [
+    "https://www.reddit.com/"
+  ]
+}
