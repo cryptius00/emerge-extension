@@ -11,6 +11,7 @@
     "history"
   ],
   "host_permissions": [
-    "https://www.reddit.com/"
+    "https://www.reddit.com/",
+    "http://localhost:3000/"
   ]
 }
